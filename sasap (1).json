@@ -1,0 +1,3541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Anchor River",
+        "escape": 302.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.21961,
+          59.7903021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Andreafsky River (East Fork)",
+        "escape": 339.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.8008518,
+          62.14938086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Auke Creek",
+        "escape": 64.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6419269,
+          58.38052206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Ayakulik River",
+        "escape": 263.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.538493,
+          57.19782763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Bear River",
+        "escape": 13.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.2734,
+          56.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Chena River",
+        "escape": 3.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2763211,
+          64.82395384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Chignik River",
+        "escape": 114.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7122418,
+          56.2615981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkoot River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.5454974,
+          59.32015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Coghill River",
+        "escape": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8804296,
+          61.07671832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Crooked Creek",
+        "escape": 301.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.28215,
+          60.3220866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Deshka River",
+        "escape": 1768.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.31217,
+          61.6931304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Dog Salmon Creek",
+        "escape": 11.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0287,
+          57.1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Eagle Sonar (Yukon/Canadian Border)",
+        "escape": 4388.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.043735,
+          64.772477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Fish Creek - Cook Inlet",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8280546,
+          61.44856291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Frazer Lake",
+        "escape": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0573,
+          57.2027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "George River",
+        "escape": 116.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6939358,
+          61.91878684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Gisasa River",
+        "escape": 144.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.750924,
+          65.23725347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Goodnews River (Middle Fork)",
+        "escape": 310.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.6119,
+          59.15992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Gulkana River",
+        "escape": 90.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3966045,
+          62.22091871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Henshaw Creek",
+        "escape": 123.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2163703,
+          66.55776747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Ilnik River",
+        "escape": 2.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.568744,
+          56.61277298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Kanektok River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.0602667,
+          59.76761667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Karluk River",
+        "escape": 236.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3843,
+          57.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Kenai River",
+        "escape": 1111.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1069727,
+          60.50965248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Kogrukluk River",
+        "escape": 1444.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8525375,
+          60.84810009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Kwethluk River",
+        "escape": 274.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.8527976,
+          60.32648088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Susitna River",
+        "escape": 392.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.29092,
+          61.2556357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Nelson River",
+        "escape": 579.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.2564572,
+          55.810523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Ninilchik River",
+        "escape": 132.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.66308,
+          60.056002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Nushagak River",
+        "escape": 146517.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7335835,
+          58.9061423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Pasagshak River",
+        "escape": 2.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4513767,
+          57.45842706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Pilot Station",
+        "escape": 14709.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.855919,
+          61.951371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Salcha River",
+        "escape": 279.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.6785421,
+          64.48254432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Aniak)",
+        "escape": 48.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.1944,
+          61.06278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Pitka Fork)",
+        "escape": 553.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.577036,
+          62.891493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Sandy River",
+        "escape": 256.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.055,
+          56.2163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 72.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5677997,
+          59.44608704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 72.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5714325,
+          59.45795207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Speel River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.72166,
+          58.13484877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Tatlawiksuk River",
+        "escape": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.24306,
+          61.91917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Telaquana River",
+        "escape": 11.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.40861,
+          61.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Tuluksak River",
+        "escape": 174.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5501778,
+          60.98690407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Upper Station",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3610157,
+          57.05645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chinook",
+        "sampleYear": 2016.0,
+        "LocationID": "Whitehorse Dam Fishway",
+        "escape": 146.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.041921,
+          60.696821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Afognak River",
+        "escape": 3.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8286,
+          58.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Andreafsky River (East Fork)",
+        "escape": 7648.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.8008518,
+          62.14938086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Anvik River",
+        "escape": 25263.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.7075391,
+          62.96721377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Auke Creek",
+        "escape": 154.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6419269,
+          58.38052206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Ayakulik River",
+        "escape": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.538493,
+          57.19782763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Bear River",
+        "escape": 98.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.2734,
+          56.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Buskin River",
+        "escape": 6.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4783685,
+          57.75811702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Chandalar River",
+        "escape": 4608.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.00417,
+          66.60917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Chena River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2763211,
+          64.82395384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Chignik River",
+        "escape": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7122418,
+          56.2615981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkat River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.9432546,
+          59.37213527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkoot River",
+        "escape": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.5454974,
+          59.32015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Coghill River",
+        "escape": 56.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8804296,
+          61.07671832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Deshka River",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.31217,
+          61.6931304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Dog Salmon Creek",
+        "escape": 314.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0287,
+          57.1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Eagle Sonar (Yukon/Canadian Border)",
+        "escape": 7583.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.043735,
+          64.772477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Fish Creek - Cook Inlet",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8280546,
+          61.44856291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Frazer Lake",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0573,
+          57.2027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "George River",
+        "escape": 918.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6939358,
+          61.91878684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Gisasa River",
+        "escape": 3608.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.750924,
+          65.23725347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Goodnews River (Middle Fork)",
+        "escape": 2010.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.6119,
+          59.15992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Henshaw Creek",
+        "escape": 19364.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2163703,
+          66.55776747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Hetta Lake Creek",
+        "escape": 10.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.5796385,
+          55.17164093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Hugh Smith lake",
+        "escape": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.6461353,
+          55.09855422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Kanektok River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.0602667,
+          59.76761667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Karluk River",
+        "escape": 34.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3843,
+          57.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Kogrukluk River",
+        "escape": 2787.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8525375,
+          60.84810009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Kwethluk River",
+        "escape": 1551.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.8527976,
+          60.32648088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Susitna River",
+        "escape": 3332.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.29092,
+          61.2556357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Nelson River",
+        "escape": 1716.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.2564572,
+          55.810523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Neva Creek",
+        "escape": 2.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4325363,
+          58.40926158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Nushagak River",
+        "escape": 236915.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7335835,
+          58.9061423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Pasagshak River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4513767,
+          57.45842706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Pauls Bay",
+        "escape": 22.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3405,
+          58.3898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Pilot Station",
+        "escape": 115336.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.855919,
+          61.951371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Salcha River",
+        "escape": 171.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.6785421,
+          64.48254432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Aniak)",
+        "escape": 46.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.1944,
+          61.06278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Pitka Fork)",
+        "escape": 46.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.577036,
+          62.891493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Sandy River",
+        "escape": 35.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.055,
+          56.2163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 2.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5677997,
+          59.44608704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Speel River",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.72166,
+          58.13484877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Tatlawiksuk River",
+        "escape": 730.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.24306,
+          61.91917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Telaquana River",
+        "escape": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.40861,
+          61.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Tuluksak River",
+        "escape": 586.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5501778,
+          60.98690407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "chum",
+        "sampleYear": 2016.0,
+        "LocationID": "Upper Station",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3610157,
+          57.05645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Afognak River",
+        "escape": 3.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8286,
+          58.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Auke Creek",
+        "escape": 86.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6419269,
+          58.38052206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Ayakulik River",
+        "escape": 343.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.538493,
+          57.19782763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Buskin River",
+        "escape": 383.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4783685,
+          57.75811702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Chignik River",
+        "escape": 1632.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7122418,
+          56.2615981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkat River",
+        "escape": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.9432546,
+          59.37213527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkoot River",
+        "escape": 13.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.5454974,
+          59.32015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Coghill River",
+        "escape": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8804296,
+          61.07671832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Deshka River",
+        "escape": 1692.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.31217,
+          61.6931304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Dog Salmon Creek",
+        "escape": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0287,
+          57.1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Eek Creek",
+        "escape": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.6694041,
+          55.15598013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Fish Creek - Cook Inlet",
+        "escape": 543.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8280546,
+          61.44856291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "George River",
+        "escape": 1993.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6939358,
+          61.91878684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Goodnews River (Middle Fork)",
+        "escape": 28.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.6119,
+          59.15992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Hetta Lake Creek",
+        "escape": 144.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.5796385,
+          55.17164093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Hugh Smith lake",
+        "escape": 1481.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.6461353,
+          55.09855422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Jim Creek",
+        "escape": 77.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.95444,
+          61.5208942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Kanektok River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.0602667,
+          59.76761667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Karluk River",
+        "escape": 1241.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3843,
+          57.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Kogrukluk River",
+        "escape": 437.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8525375,
+          60.84810009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Kwethluk River",
+        "escape": 2904.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.8527976,
+          60.32648088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Susitna River",
+        "escape": 631.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.29092,
+          61.2556357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Nelson River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.2564572,
+          55.810523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Neva Creek",
+        "escape": 239.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4325363,
+          58.40926158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Pasagshak River",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4513767,
+          57.45842706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Pauls Bay",
+        "escape": 3054.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3405,
+          58.3898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Pilot Station",
+        "escape": 22886.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.855919,
+          61.951371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Redoubt Lake",
+        "escape": 1056.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.299633,
+          56.866573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Aniak)",
+        "escape": 85.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.1944,
+          61.06278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Pitka Fork)",
+        "escape": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.577036,
+          62.891493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 75.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5677997,
+          59.44608704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Speel River",
+        "escape": 158.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.72166,
+          58.13484877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Tatlawiksuk River",
+        "escape": 556.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.24306,
+          61.91917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Telaquana River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.40861,
+          61.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Tuluksak River",
+        "escape": 20.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5501778,
+          60.98690407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "coho",
+        "sampleYear": 2016.0,
+        "LocationID": "Upper Station",
+        "escape": 549.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3610157,
+          57.05645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Andreafsky River (East Fork)",
+        "escape": 31083.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.8008518,
+          62.14938086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Anvik River",
+        "escape": 91323.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.7075391,
+          62.96721377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Auke Creek",
+        "escape": 73.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6419269,
+          58.38052206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Ayakulik River",
+        "escape": 15000.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.538493,
+          57.19782763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Bear River",
+        "escape": 187.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.2734,
+          56.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Buskin River",
+        "escape": 17047.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4783685,
+          57.75811702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Chignik River",
+        "escape": 79.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7122418,
+          56.2615981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkoot River",
+        "escape": 1131.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.5454974,
+          59.32015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Coghill River",
+        "escape": 11935.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8804296,
+          61.07671832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Deshka River",
+        "escape": 9964.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.31217,
+          61.6931304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Dog Salmon Creek",
+        "escape": 45000.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0287,
+          57.1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Eek Creek",
+        "escape": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.6694041,
+          55.15598013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Fish Creek - Cook Inlet",
+        "escape": 24.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8280546,
+          61.44856291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Hetta Lake Creek",
+        "escape": 4521.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.5796385,
+          55.17164093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Hugh Smith lake",
+        "escape": 127.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.6461353,
+          55.09855422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Ilnik River",
+        "escape": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.568744,
+          56.61277298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Karluk River",
+        "escape": 42269.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3843,
+          57.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Susitna River",
+        "escape": 471.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.29092,
+          61.2556357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Nelson River",
+        "escape": 137.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.2564572,
+          55.810523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Neva Creek",
+        "escape": 5.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4325363,
+          58.40926158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Pasagshak River",
+        "escape": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4513767,
+          57.45842706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Pauls Bay",
+        "escape": 507.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3405,
+          58.3898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Pilot Station",
+        "escape": 102347.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.855919,
+          61.951371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Saltery Creek",
+        "escape": 360.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7619,
+          57.5263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Sandy River",
+        "escape": 84.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.055,
+          56.2163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 7104.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5677997,
+          59.44608704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Speel River",
+        "escape": 25.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.72166,
+          58.13484877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "pink",
+        "sampleYear": 2016.0,
+        "LocationID": "Upper Station",
+        "escape": 169.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3610157,
+          57.05645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Afognak River",
+        "escape": 3738.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8286,
+          58.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Andreafsky River (East Fork)",
+        "escape": 69.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.8008518,
+          62.14938086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Auke Creek",
+        "escape": 591.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6419269,
+          58.38052206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Ayakulik River",
+        "escape": 19800.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.538493,
+          57.19782763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Bear River",
+        "escape": 21857.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.2734,
+          56.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Buskin River",
+        "escape": 750.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4783685,
+          57.75811702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Chelatna Lake",
+        "escape": 31941.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4544955,
+          62.47307788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Chignik River",
+        "escape": 29935.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7122418,
+          56.2615981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkat River",
+        "escape": 3462.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.9432546,
+          59.37213527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Chilkoot River",
+        "escape": 13701.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.5454974,
+          59.32015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Coghill River",
+        "escape": 3955.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8804296,
+          61.07671832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Deshka River",
+        "escape": 2.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.31217,
+          61.6931304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Dog Salmon Creek",
+        "escape": 10551.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0287,
+          57.1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Eek Creek",
+        "escape": 36.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.6694041,
+          55.15598013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Egegik River",
+        "escape": 1249080.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.8564297,
+          58.0390351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Fish Creek - Cook Inlet",
+        "escape": 3880.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8280546,
+          61.44856291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Frazer Lake",
+        "escape": 13347.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0573,
+          57.2027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "George River",
+        "escape": 201.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6939358,
+          61.91878684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Gisasa River",
+        "escape": 10.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.750924,
+          65.23725347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Goodnews River (Middle Fork)",
+        "escape": 8145.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.6119,
+          59.15992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Gulkana River",
+        "escape": 1638.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3966045,
+          62.22091871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Hetta Lake Creek",
+        "escape": 275.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.5796385,
+          55.17164093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Hugh Smith lake",
+        "escape": 6517.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.6461353,
+          55.09855422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Igushik River",
+        "escape": 232218.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.2663971,
+          59.04589629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Ilnik River",
+        "escape": 9953.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.568744,
+          56.61277298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Jim Creek",
+        "escape": 579.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.95444,
+          61.5208942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Judd Lake",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.557459,
+          61.57055038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kanalku Creek",
+        "escape": 304.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.3967206,
+          57.49361883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kanektok River",
+        "escape": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.0602667,
+          59.76761667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Karluk River",
+        "escape": 26834.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3843,
+          57.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kasilof River",
+        "escape": 69510.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3001178,
+          60.38652214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kenai River",
+        "escape": 368718.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1069727,
+          60.50965248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "King Salmon Creek",
+        "escape": 464.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.874927,
+          58.727557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kogrukluk River",
+        "escape": 2106.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8525375,
+          60.84810009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kook Creek",
+        "escape": 598.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.9389182,
+          57.66815071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kuthai Lake",
+        "escape": 476.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.261522,
+          59.233695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kvichak River",
+        "escape": 4554438.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.89715,
+          59.32838685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Kwethluk River",
+        "escape": 652.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.8527976,
+          60.32648088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Lake Louise",
+        "escape": 40.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.5055,
+          57.7605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Larson Lake",
+        "escape": 6566.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8919746,
+          62.33866194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Susitna River",
+        "escape": 203.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.29092,
+          61.2556357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Little Trapper Lake",
+        "escape": 1212.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.613472,
+          58.491522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "McLees Lake",
+        "escape": 2602.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.7281,
+          54.0002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Miles Lake",
+        "escape": 141183.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.6684369,
+          60.67978829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Naknek River",
+        "escape": 763728.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5209958,
+          58.62403922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Nelson River",
+        "escape": 18889.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.2564572,
+          55.810523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Neva Creek",
+        "escape": 342.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4325363,
+          58.40926158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Nushagak River",
+        "escape": 553770.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7335835,
+          58.9061423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Orzinski River",
+        "escape": 1843.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.0934,
+          55.731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Pasagshak River",
+        "escape": 730.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4513767,
+          57.45842706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Pauls Bay",
+        "escape": 2364.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3405,
+          58.3898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Redoubt Lake",
+        "escape": 1817.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.299633,
+          56.866573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Aniak)",
+        "escape": 30.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.1944,
+          61.06278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Salmon River (Pitka Fork)",
+        "escape": 30.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.577036,
+          62.891493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Saltery Creek",
+        "escape": 4282.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7619,
+          57.5263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Sandy River",
+        "escape": 13232.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.055,
+          56.2163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Sitkoh Lake Creek",
+        "escape": 2309.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.9598629,
+          57.51937021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 3977.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5677997,
+          59.44608704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Situk River",
+        "escape": 3977.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5714325,
+          59.45795207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Speel River",
+        "escape": 647.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.72166,
+          58.13484877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Tatlawiksuk River",
+        "escape": 23.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.24306,
+          61.91917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Tatsamenie Lake",
+        "escape": 3794.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.6541,
+          59.84363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Telaquana River",
+        "escape": 8652.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.40861,
+          61.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Togiak River",
+        "escape": 122808.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.7199888,
+          59.52652212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Tuluksak River",
+        "escape": 111.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5501778,
+          60.98690407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Ugashik River",
+        "escape": 975786.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7963411,
+          57.55815409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Upper Station",
+        "escape": 12463.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3610157,
+          57.05645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "sockeye",
+        "sampleYear": 2016.0,
+        "LocationID": "Wood River",
+        "escape": 788130.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.5822057,
+          59.27149382
+        ]
+      }
+    }
+  ]
+}
